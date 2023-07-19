@@ -23,8 +23,9 @@ public class LoginPage {
 
     public void verifyLoginFunctionality(String UserType, String Brand) throws FileNotFoundException {
         try {
-           driver.findElement(By.xpath("")).sendKeys("");
-            driver.findElement(By.xpath("")).sendKeys("");
+            driver.get("www.facebook.com");
+           driver.findElement(By.xpath("")).sendKeys("test@gmail.com");
+            driver.findElement(By.xpath("")).sendKeys("automate");
             driver.findElement(By.xpath("")).click();
         } catch (Exception e) {
             log.error(e);
