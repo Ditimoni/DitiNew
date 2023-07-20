@@ -5,10 +5,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>Altria</groupId>
-    <artifactId>Altria</artifactId>
+    <groupId>TestMaven</groupId>
+    <artifactId>TestMaven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Altria</name>
+    <name>TestMaven</name>
 
 
     <properties>
@@ -23,6 +23,10 @@
 
     </properties>
     <repositories>
+        <repository>
+            <id>jitpack.io</id>
+            <url>https://jitpack.io</url>
+        </repository>
         <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
