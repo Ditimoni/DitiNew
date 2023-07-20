@@ -28,10 +28,6 @@
             <url>https://jitpack.io</url>
         </repository>
         <repository>
-            <id>jitpack.io</id>
-            <url>https://jitpack.io</url>
-        </repository>
-        <repository>
             <id>mulesoft-releases</id>
             <name>MuleSoft Repository</name>
             <url>https://repository.mulesoft.org/nexus/content/repositories/public/</url>
