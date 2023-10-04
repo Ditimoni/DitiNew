@@ -219,7 +219,7 @@
                         <UserName>User1</UserName>
                         <ValidationType>functional</ValidationType>
                         <Env>QA3</Env>
-                        <InvocationCount>10</InvocationCount>
+                        <InvocationCount>5</InvocationCount>
                         <BuildNumber>1.0</BuildNumber>
                         <ReleaseNumber>6</ReleaseNumber>
                         <ClientId>DVP</ClientId>
